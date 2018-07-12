@@ -7,7 +7,7 @@
     <groupId>cn.net.aiyuanma.mybatis.generator</groupId>
     <artifactId>rendj-mybatis-generator-plugin</artifactId>
     <name>rendj-mybatis-generator-plugin</name>
-    <version>${mybatis.generator.exp.version}</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -15,7 +15,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <mybatis.generator.exp.version>1.0-SNAPSHOT</mybatis.generator.exp.version>
     </properties>
 
     <dependencies>
